@@ -10,7 +10,7 @@ Technologies include:
 
 Languages | Ruby, JavaScript, HTML, CSS, SQL
 
-Frameworks & Libraries | Ruby on Rails, jQuery, Bootstrap, Stimulus, Hotwire, RabbitMQ, Redis, Memcached
+Frameworks & Libraries | Ruby on Rails, React, jQuery, Bootstrap, Stimulus, Hotwire, RabbitMQ, Redis, Memcached
 
 Database Tools | PostgreSQL, Mysql
 
@@ -18,7 +18,8 @@ Cloud | AWS, Rackspace, Digital Ocean, Heroku
 
 GIT, SVN, Linux, Ubuntu, FreeBSD, On-premise servers
 
-Docker, IAC(Terraform, Ansible), Kubernetes learner
+Docker, IAC(Terraform, Ansible), Kubernetes learner 
+Web3: Solidity learner
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kivanio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kivanio/?locale=en_US) 
 
